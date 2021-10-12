@@ -20,7 +20,6 @@ const usage = `Zyxel VMG8823-B50B WPA Keygen
 Usage:
   zykgen (-m|-n|-c) [-l <length> -L <letter>] <startserial> <endserial>
   zykgen -h | --help
-  example: usage zykgen -c -l 16 182000000000 182099999999
 
 Options:
   -l <length>     Output key length [default: 10].
